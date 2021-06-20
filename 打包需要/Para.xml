@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Para>
+  <P name="para1548164562" time="1548164563">
+    <imt5Gant phi="0.5" theta="0.5" rownum="8" colnum="8" G_Em="5" Am="30" SLA="30" phi_3db="65" theta_3db="65" theta_e="0" phi_e="0" freq="32000" />
+    <IMT5G freq="32000" B="200" h="6" Pmax="18.06" Gmax="5" Lossaver_BS="6.9897" TDDloss="0.9691" L_Bs="3" titl_BS="10" Ra="0.07" Rb="1" cell_dens1="30" cell_dens2="10" />
+    <NAV_32G B="40" Lfeeder="2" Lcross="3" Gmax="44" NF="11" INR="-6" h="100" lonlat1="116.417" lonlat2="39.917" speed="900" freq="32000" ant_scan_ele="-10" ant_scan_azirpm="7" ant_type="1" />
+    <EMCenv lonlat1="116.417" lonlat2="39.917" Suburban_R="20" Urban_R="5" t_percent="10" p_percent="10" />
+    <simu Dmax="5" t_per="0.5" mont_num="3" />
+  </P>
+</Para>
